@@ -1,55 +1,25 @@
 {
   "data": {
-    "id": "https://app.boxel.ai/itp_project/claude-test/Program/adult-clinics",
-    "meta": {
-      "realmURL": "https://app.boxel.ai/itp_project/claude-test/",
-      "realmInfo": {
-        "name": "claude-test",
-        "iconURL": null,
-        "hostHome": null,
-        "visibility": "private",
-        "publishable": true,
-        "realmUserId": "@realm/itp_project_claude-test:boxel.ai",
-        "interactHome": null,
-        "backgroundURL": null,
-        "showAsCatalog": null,
-        "lastPublishedAt": null
-      },
-      "adoptsFrom": {
-        "name": "Program",
-        "module": "../program"
-      },
-      "lastModified": 1770926860,
-      "resourceCreatedAt": 1770926860
-    },
     "type": "card",
     "attributes": {
-      "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=600&h=400&fit=crop",
-      "level": "Adult",
-      "price": "CHF 1,800 / term",
-      "title": "Adult Clinics",
-      "cardInfo": {
-        "name": null,
-        "notes": null,
-        "summary": null,
-        "cardThumbnailURL": null
-      },
-      "schedule": "Tue / Thu — 6:00pm",
-      "cardTitle": "Untitled Program",
-      "description": "Refine your game in our adult group sessions. Whether you are returning to the court or seeking to sharpen your competitive edge, our coaches deliver tailored drills and match-play strategy.",
       "programName": "Adult Clinics",
-      "cardDescription": null,
-      "cardThumbnailURL": null
-    },
-    "relationships": {
-      "cardInfo.theme": {
-        "links": {
-          "self": null
-        }
+      "level": "Adult",
+      "description": "Refine your game in our adult group sessions. Whether you are returning to the court or seeking to sharpen your competitive edge, our coaches deliver tailored drills and match-play strategy.",
+      "schedule": "Tue / Thu — 6:00pm",
+      "price": "CHF 1,800 / term",
+      "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=600&h=400&fit=crop",
+      "cardInfo": {
+        "title": "Adult Clinics",
+        "description": null,
+        "thumbnailURL": null,
+        "notes": null
       }
     },
-    "links": {
-      "self": "https://app.boxel.ai/itp_project/claude-test/Program/adult-clinics"
+    "meta": {
+      "adoptsFrom": {
+        "module": "../program",
+        "name": "Program"
+      }
     }
   }
 }

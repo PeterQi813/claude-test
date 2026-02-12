@@ -1,67 +1,37 @@
 {
   "data": {
-    "id": "https://app.boxel.ai/itp_project/claude-test/LandingPage/rf-tennis-academy",
-    "meta": {
-      "realmURL": "https://app.boxel.ai/itp_project/claude-test/",
-      "realmInfo": {
-        "name": "claude-test",
-        "iconURL": null,
-        "hostHome": null,
-        "visibility": "private",
-        "publishable": true,
-        "realmUserId": "@realm/itp_project_claude-test:boxel.ai",
-        "interactHome": null,
-        "backgroundURL": null,
-        "showAsCatalog": null,
-        "lastPublishedAt": null
-      },
-      "adoptsFrom": {
-        "name": "LandingPage",
-        "module": "../landing-page"
-      },
-      "lastModified": 1770927411,
-      "resourceCreatedAt": 1770926859
-    },
     "type": "card",
     "attributes": {
-      "title": "RF Tennis Academy",
-      "tagline": "Where Elegance Meets Excellence",
-      "cardInfo": {
-        "name": null,
-        "notes": null,
-        "summary": null,
-        "cardThumbnailURL": null
-      },
-      "location": "Lausanne, Switzerland",
-      "cardTitle": "Untitled Landing Page",
-      "heroImage": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=1920&h=1080&fit=crop",
-      "stat1Label": "Years of Excellence",
-      "stat2Label": "Students Trained",
-      "stat3Label": "Court Facilities",
-      "stat4Label": "Student Satisfaction",
       "academyName": "RF Tennis Academy",
+      "tagline": "Where Elegance Meets Excellence",
+      "heroImage": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=1920&h=1080&fit=crop",
+      "secondaryImage": "https://images.unsplash.com/photo-1551773188-d63657de8cd4?w=1400&h=600&fit=crop",
       "description": "Founded on the principles of precision, grace, and relentless pursuit of perfection, **RF Tennis Academy** offers a world-class training experience inspired by the artistry of modern tennis.\n\nOur philosophy is simple — tennis is not merely a sport, it is an expression of discipline, creativity, and character. Every student who walks through our doors receives personalized coaching rooted in technical mastery, strategic intelligence, and the mental fortitude that defines champions.\n\nFrom juniors taking their first steps on court to elite competitors preparing for the professional circuit, we cultivate an environment where potential transforms into excellence.",
+      "philosophyQuote": "It is nice to be important, but it is more important to be nice. You always want to try to make yourself better, on and off the court.",
+      "philosophyAttribution": "Roger Federer",
       "stat1Number": "20+",
+      "stat1Label": "Years of Excellence",
       "stat2Number": "350",
+      "stat2Label": "Students Trained",
       "stat3Number": "12",
+      "stat3Label": "Court Facilities",
       "stat4Number": "98%",
+      "stat4Label": "Student Satisfaction",
       "contactEmail": "info@rftennisacademy.com",
       "contactPhone": "+41 21 345 6789",
-      "secondaryImage": "https://images.unsplash.com/photo-1551773188-d63657de8cd4?w=1400&h=600&fit=crop",
-      "cardDescription": null,
-      "philosophyQuote": "It is nice to be important, but it is more important to be nice. You always want to try to make yourself better, on and off the court.",
-      "cardThumbnailURL": null,
-      "philosophyAttribution": "Roger Federer"
-    },
-    "relationships": {
-      "cardInfo.theme": {
-        "links": {
-          "self": null
-        }
+      "location": "Lausanne, Switzerland",
+      "cardInfo": {
+        "title": "RF Tennis Academy",
+        "description": "A world-class tennis academy inspired by elegance and excellence",
+        "thumbnailURL": null,
+        "notes": null
       }
     },
-    "links": {
-      "self": "https://app.boxel.ai/itp_project/claude-test/LandingPage/rf-tennis-academy"
+    "meta": {
+      "adoptsFrom": {
+        "module": "../landing-page",
+        "name": "LandingPage"
+      }
     }
   }
 }

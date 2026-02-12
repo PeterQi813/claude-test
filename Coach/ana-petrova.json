@@ -1,54 +1,24 @@
 {
   "data": {
-    "id": "https://app.boxel.ai/itp_project/claude-test/Coach/ana-petrova",
-    "meta": {
-      "realmURL": "https://app.boxel.ai/itp_project/claude-test/",
-      "realmInfo": {
-        "name": "claude-test",
-        "iconURL": null,
-        "hostHome": null,
-        "visibility": "private",
-        "publishable": true,
-        "realmUserId": "@realm/itp_project_claude-test:boxel.ai",
-        "interactHome": null,
-        "backgroundURL": null,
-        "showAsCatalog": null,
-        "lastPublishedAt": null
-      },
-      "adoptsFrom": {
-        "name": "Coach",
-        "module": "../coach"
-      },
-      "lastModified": 1770926857,
-      "resourceCreatedAt": 1770926857
-    },
     "type": "card",
     "attributes": {
-      "bio": "A passionate educator and former WTA competitor, Ana specializes in nurturing young talent. Her patient, methodical approach helps junior players build strong fundamentals while developing a genuine love for the sport.",
-      "role": "Junior Development Director",
-      "title": "Ana Petrova",
-      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&h=300&fit=crop&crop=face",
-      "cardInfo": {
-        "name": null,
-        "notes": null,
-        "summary": null,
-        "cardThumbnailURL": null
-      },
-      "cardTitle": "Untitled Coach",
       "coachName": "Ana Petrova",
+      "role": "Junior Development Director",
+      "bio": "A passionate educator and former WTA competitor, Ana specializes in nurturing young talent. Her patient, methodical approach helps junior players build strong fundamentals while developing a genuine love for the sport.",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&h=300&fit=crop&crop=face",
       "specialty": "Junior Coaching & Player Development",
-      "cardDescription": null,
-      "cardThumbnailURL": null
-    },
-    "relationships": {
-      "cardInfo.theme": {
-        "links": {
-          "self": null
-        }
+      "cardInfo": {
+        "title": "Ana Petrova",
+        "description": null,
+        "thumbnailURL": null,
+        "notes": null
       }
     },
-    "links": {
-      "self": "https://app.boxel.ai/itp_project/claude-test/Coach/ana-petrova"
+    "meta": {
+      "adoptsFrom": {
+        "module": "../coach",
+        "name": "Coach"
+      }
     }
   }
 }
