@@ -1,25 +1,55 @@
 {
   "data": {
+    "id": "https://app.boxel.ai/itp_project/claude-test/Program/elite-performance",
+    "meta": {
+      "realmURL": "https://app.boxel.ai/itp_project/claude-test/",
+      "realmInfo": {
+        "name": "claude-test",
+        "iconURL": null,
+        "hostHome": null,
+        "visibility": "private",
+        "publishable": true,
+        "realmUserId": "@realm/itp_project_claude-test:boxel.ai",
+        "interactHome": null,
+        "backgroundURL": null,
+        "showAsCatalog": null,
+        "lastPublishedAt": null
+      },
+      "adoptsFrom": {
+        "name": "Program",
+        "module": "../program"
+      },
+      "lastModified": 1770926861,
+      "resourceCreatedAt": 1770926861
+    },
     "type": "card",
     "attributes": {
-      "programName": "Elite Performance",
-      "level": "Elite",
-      "description": "For tournament-level players committed to reaching the highest echelon of competition. Intensive technical, tactical, physical, and mental training designed to forge champions.",
-      "schedule": "Mon–Fri — 8:00am to 12:00pm",
-      "price": "CHF 8,500 / term",
       "image": "https://images.unsplash.com/photo-1542144582-1ba00456b5e3?w=600&h=400&fit=crop",
+      "level": "Elite",
+      "price": "CHF 8,500 / term",
+      "title": "Elite Performance",
       "cardInfo": {
-        "title": "Elite Performance Program",
-        "description": null,
-        "thumbnailURL": null,
-        "notes": null
+        "name": null,
+        "notes": null,
+        "summary": null,
+        "cardThumbnailURL": null
+      },
+      "schedule": "Mon–Fri — 8:00am to 12:00pm",
+      "cardTitle": "Untitled Program",
+      "description": "For tournament-level players committed to reaching the highest echelon of competition. Intensive technical, tactical, physical, and mental training designed to forge champions.",
+      "programName": "Elite Performance",
+      "cardDescription": null,
+      "cardThumbnailURL": null
+    },
+    "relationships": {
+      "cardInfo.theme": {
+        "links": {
+          "self": null
+        }
       }
     },
-    "meta": {
-      "adoptsFrom": {
-        "module": "../program",
-        "name": "Program"
-      }
+    "links": {
+      "self": "https://app.boxel.ai/itp_project/claude-test/Program/elite-performance"
     }
   }
 }

@@ -1,21 +1,51 @@
 {
   "data": {
+    "id": "https://app.boxel.ai/itp_project/claude-test/BrandGuide/rf-brand-guide",
+    "meta": {
+      "realmURL": "https://app.boxel.ai/itp_project/claude-test/",
+      "realmInfo": {
+        "name": "claude-test",
+        "iconURL": null,
+        "hostHome": null,
+        "visibility": "private",
+        "publishable": true,
+        "realmUserId": "@realm/itp_project_claude-test:boxel.ai",
+        "interactHome": null,
+        "backgroundURL": null,
+        "showAsCatalog": null,
+        "lastPublishedAt": null
+      },
+      "adoptsFrom": {
+        "name": "BrandGuide",
+        "module": "../brand-guide"
+      },
+      "lastModified": 1770927410,
+      "resourceCreatedAt": 1770927410
+    },
     "type": "card",
     "attributes": {
-      "brandName": "RF Tennis Academy",
-      "philosophy": "The RF Tennis Academy brand draws from the ethos of Roger Federer: effortless elegance, Swiss precision, and quiet confidence.",
+      "title": "RF Tennis Academy — Brand Guide",
       "cardInfo": {
-        "title": "RF Tennis Academy Brand Guide",
-        "description": "Official brand guidelines for the RF Tennis Academy",
-        "thumbnailURL": null,
-        "notes": null
+        "name": null,
+        "notes": null,
+        "summary": null,
+        "cardThumbnailURL": null
+      },
+      "brandName": "RF Tennis Academy",
+      "cardTitle": "Untitled Brand Guide",
+      "philosophy": "The RF Tennis Academy brand draws from the ethos of Roger Federer: effortless elegance, Swiss precision, and quiet confidence.",
+      "cardDescription": null,
+      "cardThumbnailURL": null
+    },
+    "relationships": {
+      "cardInfo.theme": {
+        "links": {
+          "self": null
+        }
       }
     },
-    "meta": {
-      "adoptsFrom": {
-        "module": "../brand-guide",
-        "name": "BrandGuide"
-      }
+    "links": {
+      "self": "https://app.boxel.ai/itp_project/claude-test/BrandGuide/rf-brand-guide"
     }
   }
 }

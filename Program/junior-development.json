@@ -1,25 +1,55 @@
 {
   "data": {
+    "id": "https://app.boxel.ai/itp_project/claude-test/Program/junior-development",
+    "meta": {
+      "realmURL": "https://app.boxel.ai/itp_project/claude-test/",
+      "realmInfo": {
+        "name": "claude-test",
+        "iconURL": null,
+        "hostHome": null,
+        "visibility": "private",
+        "publishable": true,
+        "realmUserId": "@realm/itp_project_claude-test:boxel.ai",
+        "interactHome": null,
+        "backgroundURL": null,
+        "showAsCatalog": null,
+        "lastPublishedAt": null
+      },
+      "adoptsFrom": {
+        "name": "Program",
+        "module": "../program"
+      },
+      "lastModified": 1770926862,
+      "resourceCreatedAt": 1770926862
+    },
     "type": "card",
     "attributes": {
-      "programName": "Junior Development",
-      "level": "Junior",
-      "description": "A comprehensive program for young players aged 8-16, building technical foundations with an emphasis on proper form, footwork, and a love for the game. Small group settings ensure individual attention.",
-      "schedule": "Mon / Wed / Fri — 3:30pm",
-      "price": "CHF 2,400 / term",
       "image": "https://images.unsplash.com/photo-1551773188-d63657de8cd4?w=600&h=400&fit=crop",
+      "level": "Junior",
+      "price": "CHF 2,400 / term",
+      "title": "Junior Development",
       "cardInfo": {
-        "title": "Junior Development Program",
-        "description": null,
-        "thumbnailURL": null,
-        "notes": null
+        "name": null,
+        "notes": null,
+        "summary": null,
+        "cardThumbnailURL": null
+      },
+      "schedule": "Mon / Wed / Fri — 3:30pm",
+      "cardTitle": "Untitled Program",
+      "description": "A comprehensive program for young players aged 8-16, building technical foundations with an emphasis on proper form, footwork, and a love for the game. Small group settings ensure individual attention.",
+      "programName": "Junior Development",
+      "cardDescription": null,
+      "cardThumbnailURL": null
+    },
+    "relationships": {
+      "cardInfo.theme": {
+        "links": {
+          "self": null
+        }
       }
     },
-    "meta": {
-      "adoptsFrom": {
-        "module": "../program",
-        "name": "Program"
-      }
+    "links": {
+      "self": "https://app.boxel.ai/itp_project/claude-test/Program/junior-development"
     }
   }
 }

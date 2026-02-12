@@ -19,7 +19,7 @@
         "name": "IndexCard",
         "module": "https://cardstack.com/base/index"
       },
-      "lastModified": 1770926457,
+      "lastModified": 1770937762,
       "resourceCreatedAt": 1770926462
     },
     "type": "card",
@@ -76,7 +76,7 @@
           "name": "CardsGrid",
           "module": "https://cardstack.com/base/cards-grid"
         },
-        "lastModified": 1770926457,
+        "lastModified": 1770937760,
         "resourceCreatedAt": 1770926459
       },
       "type": "card",
