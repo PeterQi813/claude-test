@@ -1,24 +1,54 @@
 {
   "data": {
+    "id": "https://app.boxel.ai/itp_project/claude-test/Coach/stefan-mueller",
+    "meta": {
+      "realmURL": "https://app.boxel.ai/itp_project/claude-test/",
+      "realmInfo": {
+        "name": "claude-test",
+        "iconURL": null,
+        "hostHome": null,
+        "visibility": "private",
+        "publishable": true,
+        "realmUserId": "@realm/itp_project_claude-test:boxel.ai",
+        "interactHome": null,
+        "backgroundURL": null,
+        "showAsCatalog": null,
+        "lastPublishedAt": null
+      },
+      "adoptsFrom": {
+        "name": "Coach",
+        "module": "../coach"
+      },
+      "lastModified": 1770926859,
+      "resourceCreatedAt": 1770926859
+    },
     "type": "card",
     "attributes": {
-      "coachName": "Stefan Müller",
-      "role": "Head Coach & Director",
       "bio": "Former ATP-ranked professional with over 20 years of coaching experience. Stefan trained at the Swiss National Tennis Centre and has guided multiple juniors to international rankings. His coaching philosophy centers on technical elegance and mental resilience.",
+      "role": "Head Coach & Director",
+      "title": "Stefan Müller",
       "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face",
-      "specialty": "Technical Development & Match Strategy",
       "cardInfo": {
-        "title": "Stefan Müller",
-        "description": null,
-        "thumbnailURL": null,
-        "notes": null
+        "name": null,
+        "notes": null,
+        "summary": null,
+        "cardThumbnailURL": null
+      },
+      "cardTitle": "Untitled Coach",
+      "coachName": "Stefan Müller",
+      "specialty": "Technical Development & Match Strategy",
+      "cardDescription": null,
+      "cardThumbnailURL": null
+    },
+    "relationships": {
+      "cardInfo.theme": {
+        "links": {
+          "self": null
+        }
       }
     },
-    "meta": {
-      "adoptsFrom": {
-        "module": "../coach",
-        "name": "Coach"
-      }
+    "links": {
+      "self": "https://app.boxel.ai/itp_project/claude-test/Coach/stefan-mueller"
     }
   }
 }

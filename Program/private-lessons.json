@@ -1,25 +1,55 @@
 {
   "data": {
+    "id": "https://app.boxel.ai/itp_project/claude-test/Program/private-lessons",
+    "meta": {
+      "realmURL": "https://app.boxel.ai/itp_project/claude-test/",
+      "realmInfo": {
+        "name": "claude-test",
+        "iconURL": null,
+        "hostHome": null,
+        "visibility": "private",
+        "publishable": true,
+        "realmUserId": "@realm/itp_project_claude-test:boxel.ai",
+        "interactHome": null,
+        "backgroundURL": null,
+        "showAsCatalog": null,
+        "lastPublishedAt": null
+      },
+      "adoptsFrom": {
+        "name": "Program",
+        "module": "../program"
+      },
+      "lastModified": 1770926863,
+      "resourceCreatedAt": 1770926863
+    },
     "type": "card",
     "attributes": {
-      "programName": "Private Lessons",
-      "level": "Private",
-      "description": "One-on-one sessions with our senior coaching staff. Fully customized to your goals — whether preparing for a specific tournament, correcting technique, or accelerating your development.",
-      "schedule": "By appointment",
-      "price": "CHF 250 / hour",
       "image": "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?w=600&h=400&fit=crop",
+      "level": "Private",
+      "price": "CHF 250 / hour",
+      "title": "Private Lessons",
       "cardInfo": {
-        "title": "Private Lessons",
-        "description": null,
-        "thumbnailURL": null,
-        "notes": null
+        "name": null,
+        "notes": null,
+        "summary": null,
+        "cardThumbnailURL": null
+      },
+      "schedule": "By appointment",
+      "cardTitle": "Untitled Program",
+      "description": "One-on-one sessions with our senior coaching staff. Fully customized to your goals — whether preparing for a specific tournament, correcting technique, or accelerating your development.",
+      "programName": "Private Lessons",
+      "cardDescription": null,
+      "cardThumbnailURL": null
+    },
+    "relationships": {
+      "cardInfo.theme": {
+        "links": {
+          "self": null
+        }
       }
     },
-    "meta": {
-      "adoptsFrom": {
-        "module": "../program",
-        "name": "Program"
-      }
+    "links": {
+      "self": "https://app.boxel.ai/itp_project/claude-test/Program/private-lessons"
     }
   }
 }
