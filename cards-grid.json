@@ -1,0 +1,49 @@
+{
+  "data": {
+    "id": "https://app.boxel.ai/itp_project/claude-test/cards-grid",
+    "meta": {
+      "realmURL": "https://app.boxel.ai/itp_project/claude-test/",
+      "realmInfo": {
+        "name": "claude-test",
+        "iconURL": null,
+        "hostHome": null,
+        "visibility": "private",
+        "publishable": true,
+        "realmUserId": "@realm/itp_project_claude-test:boxel.ai",
+        "interactHome": null,
+        "backgroundURL": null,
+        "showAsCatalog": null,
+        "lastPublishedAt": null
+      },
+      "adoptsFrom": {
+        "name": "CardsGrid",
+        "module": "https://cardstack.com/base/cards-grid"
+      },
+      "lastModified": 1770926457,
+      "resourceCreatedAt": 1770926459
+    },
+    "type": "card",
+    "attributes": {
+      "cardInfo": {
+        "name": null,
+        "notes": null,
+        "summary": null,
+        "cardThumbnailURL": null
+      },
+      "cardTitle": "claude-test",
+      "realmName": "claude-test",
+      "cardDescription": null,
+      "cardThumbnailURL": null
+    },
+    "relationships": {
+      "cardInfo.theme": {
+        "links": {
+          "self": null
+        }
+      }
+    },
+    "links": {
+      "self": "https://app.boxel.ai/itp_project/claude-test/cards-grid"
+    }
+  }
+}

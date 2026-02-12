@@ -1,0 +1,25 @@
+{
+  "data": {
+    "type": "card",
+    "attributes": {
+      "programName": "Private Lessons",
+      "level": "Private",
+      "description": "One-on-one sessions with our senior coaching staff. Fully customized to your goals — whether preparing for a specific tournament, correcting technique, or accelerating your development.",
+      "schedule": "By appointment",
+      "price": "CHF 250 / hour",
+      "image": "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?w=600&h=400&fit=crop",
+      "cardInfo": {
+        "title": "Private Lessons",
+        "description": null,
+        "thumbnailURL": null,
+        "notes": null
+      }
+    },
+    "meta": {
+      "adoptsFrom": {
+        "module": "../program",
+        "name": "Program"
+      }
+    }
+  }
+}

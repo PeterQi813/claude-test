@@ -1,0 +1,24 @@
+{
+  "data": {
+    "type": "card",
+    "attributes": {
+      "coachName": "Stefan Müller",
+      "role": "Head Coach & Director",
+      "bio": "Former ATP-ranked professional with over 20 years of coaching experience. Stefan trained at the Swiss National Tennis Centre and has guided multiple juniors to international rankings. His coaching philosophy centers on technical elegance and mental resilience.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face",
+      "specialty": "Technical Development & Match Strategy",
+      "cardInfo": {
+        "title": "Stefan Müller",
+        "description": null,
+        "thumbnailURL": null,
+        "notes": null
+      }
+    },
+    "meta": {
+      "adoptsFrom": {
+        "module": "../coach",
+        "name": "Coach"
+      }
+    }
+  }
+}

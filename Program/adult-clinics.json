@@ -1,0 +1,25 @@
+{
+  "data": {
+    "type": "card",
+    "attributes": {
+      "programName": "Adult Clinics",
+      "level": "Adult",
+      "description": "Refine your game in our adult group sessions. Whether you are returning to the court or seeking to sharpen your competitive edge, our coaches deliver tailored drills and match-play strategy.",
+      "schedule": "Tue / Thu — 6:00pm",
+      "price": "CHF 1,800 / term",
+      "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=600&h=400&fit=crop",
+      "cardInfo": {
+        "title": "Adult Clinics",
+        "description": null,
+        "thumbnailURL": null,
+        "notes": null
+      }
+    },
+    "meta": {
+      "adoptsFrom": {
+        "module": "../program",
+        "name": "Program"
+      }
+    }
+  }
+}

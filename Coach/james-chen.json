@@ -1,0 +1,24 @@
+{
+  "data": {
+    "type": "card",
+    "attributes": {
+      "coachName": "James Chen",
+      "role": "Performance & Fitness Coach",
+      "bio": "With a background in sports science and high-performance athletics, James designs training regimens that build speed, endurance, and explosive power on court. He has worked with professional athletes across multiple disciplines.",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face",
+      "specialty": "Athletic Performance & Conditioning",
+      "cardInfo": {
+        "title": "James Chen",
+        "description": null,
+        "thumbnailURL": null,
+        "notes": null
+      }
+    },
+    "meta": {
+      "adoptsFrom": {
+        "module": "../coach",
+        "name": "Coach"
+      }
+    }
+  }
+}

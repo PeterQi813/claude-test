@@ -1,0 +1,25 @@
+{
+  "data": {
+    "type": "card",
+    "attributes": {
+      "programName": "Junior Development",
+      "level": "Junior",
+      "description": "A comprehensive program for young players aged 8-16, building technical foundations with an emphasis on proper form, footwork, and a love for the game. Small group settings ensure individual attention.",
+      "schedule": "Mon / Wed / Fri — 3:30pm",
+      "price": "CHF 2,400 / term",
+      "image": "https://images.unsplash.com/photo-1551773188-d63657de8cd4?w=600&h=400&fit=crop",
+      "cardInfo": {
+        "title": "Junior Development Program",
+        "description": null,
+        "thumbnailURL": null,
+        "notes": null
+      }
+    },
+    "meta": {
+      "adoptsFrom": {
+        "module": "../program",
+        "name": "Program"
+      }
+    }
+  }
+}

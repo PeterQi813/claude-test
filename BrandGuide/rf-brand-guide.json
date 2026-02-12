@@ -1,0 +1,21 @@
+{
+  "data": {
+    "type": "card",
+    "attributes": {
+      "brandName": "RF Tennis Academy",
+      "philosophy": "The RF Tennis Academy brand draws from the ethos of Roger Federer: effortless elegance, Swiss precision, and quiet confidence.",
+      "cardInfo": {
+        "title": "RF Tennis Academy Brand Guide",
+        "description": "Official brand guidelines for the RF Tennis Academy",
+        "thumbnailURL": null,
+        "notes": null
+      }
+    },
+    "meta": {
+      "adoptsFrom": {
+        "module": "../brand-guide",
+        "name": "BrandGuide"
+      }
+    }
+  }
+}

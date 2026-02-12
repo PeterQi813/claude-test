@@ -1,0 +1,24 @@
+{
+  "data": {
+    "type": "card",
+    "attributes": {
+      "coachName": "Ana Petrova",
+      "role": "Junior Development Director",
+      "bio": "A passionate educator and former WTA competitor, Ana specializes in nurturing young talent. Her patient, methodical approach helps junior players build strong fundamentals while developing a genuine love for the sport.",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&h=300&fit=crop&crop=face",
+      "specialty": "Junior Coaching & Player Development",
+      "cardInfo": {
+        "title": "Ana Petrova",
+        "description": null,
+        "thumbnailURL": null,
+        "notes": null
+      }
+    },
+    "meta": {
+      "adoptsFrom": {
+        "module": "../coach",
+        "name": "Coach"
+      }
+    }
+  }
+}

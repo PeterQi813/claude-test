@@ -1,0 +1,25 @@
+{
+  "data": {
+    "type": "card",
+    "attributes": {
+      "programName": "Elite Performance",
+      "level": "Elite",
+      "description": "For tournament-level players committed to reaching the highest echelon of competition. Intensive technical, tactical, physical, and mental training designed to forge champions.",
+      "schedule": "Mon–Fri — 8:00am to 12:00pm",
+      "price": "CHF 8,500 / term",
+      "image": "https://images.unsplash.com/photo-1542144582-1ba00456b5e3?w=600&h=400&fit=crop",
+      "cardInfo": {
+        "title": "Elite Performance Program",
+        "description": null,
+        "thumbnailURL": null,
+        "notes": null
+      }
+    },
+    "meta": {
+      "adoptsFrom": {
+        "module": "../program",
+        "name": "Program"
+      }
+    }
+  }
+}
